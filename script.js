@@ -190,7 +190,7 @@ $(".popup-form").submit(function() {
     $(".popup-submit").prop('disabled', true);
     $.ajax({
     type: "POST",
-    url: "https://formcarry.com/s/nD1zlkZWaqi",
+    url: "https://formcarry.com/s/t6OJrHdMsQt",
     data: th.serialize(),
     })
     $popupMainWindow.fadeOut();
